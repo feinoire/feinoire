@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Rafei  
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafexyz&color=blue)  
-![Followers](https://img.shields.io/github/followers/rafexyz?style=social)  
-![Stars](https://img.shields.io/github/stars/rafexyz?style=social)  
-
 ---
 
 ## 💻 About Me
@@ -12,11 +8,6 @@
 - 🎯 Goal: Become a full-stack developer  
 - ⚡ Fun fact: I love exploring **open-source projects**  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafexyz&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafexyz&layout=compact&theme=tokyonight)
 
 ---
 
