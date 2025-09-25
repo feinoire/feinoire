@@ -3,10 +3,11 @@
 ---
 
 ## 💻 About Me
-- 🌱 Currently learning **Laravel & Android Development**  
-- 🚀 Passionate about building apps with **Java, PHP, and MySQL**  
-- 🎯 Goal: Become a full-stack developer  
-- ⚡ Fun fact: I love exploring **open-source projects**  
+- 🎓 A student at **SMK Negeri 4 Banjarmasin**  
+- 😅 Honestly, I **hate coding**, but I’m determined to **grow** and gain more knowledge  
+- ✨ I love things that are **simple yet cool**  
+- ⚡ Known for being **fast** at getting things done  
+- 🧠 Smart at creating **strategies** to solve challenges  
 
 
 ---
