@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🖥️ [**Jadwal Kuliah FISIP**] ----
+- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**] 
 
 
 ---
