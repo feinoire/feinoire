@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**] 
+- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**] https://github.com/feinoire/UNLAM-Fisip-Schedule
 
 
 ---
