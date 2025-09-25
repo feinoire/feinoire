@@ -4,11 +4,10 @@
 
 ## 💻 About Me
 - 🎓 A student at **SMK Negeri 4 Banjarmasin**  
-- 😅 Honestly, I **hate coding**, but I’m determined to **grow** and gain more knowledge  
+- ⚡ Known for being **fast** at getting things done
 - ✨ I love things that are **simple yet cool**  
-- ⚡ Known for being **fast** at getting things done  
 - 🧠 Smart at creating **strategies** to solve challenges  
-
+- 😅 Honestly, I **hate coding**, but I’m determined to **grow** and gain more knowledge  
 
 ---
 
