@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
@@ -30,6 +30,12 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Rafei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feinoire&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feinoire&layout=compact&theme=tokyonight)  
 
 ---
 
