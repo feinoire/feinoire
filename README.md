@@ -4,7 +4,7 @@
 
 ## 💻 About Me
 - 🎓 A student at **SMK Negeri 4 Banjarmasin**  
-- ⚡ Known for being **fast** at getting things done
+- ⚡ Known for being **fast** at getting things done  
 - ✨ I love things that are **simple yet cool**  
 - 🧠 Smart at creating **strategies** to solve challenges  
 - 😅 Honestly, I **hate coding**, but I’m determined to **grow** and gain more knowledge  
@@ -12,8 +12,24 @@
 ---
 
 ## 🚀 Featured Projects
-- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**] https://github.com/feinoire/UNLAM-Fisip-Schedule
+- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**](https://github.com/feinoire/UNLAM-Fisip-Schedule)  
 
+---
+
+## 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Filament](https://img.shields.io/badge/Filament-FF4785?logo=storybook&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
 
